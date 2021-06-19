@@ -1,0 +1,7 @@
+def citire():
+	f = open("", "r")
+	sir = f.read();
+	sir = sir.split(' ')/var/www/html/index.php
+
+	n1, n2, n3, n4, n5, n6 = [int(sir[0]), int(sir[1]), int(sir[2]), int(sir[3]), int(sir[4]), int(sir[5])
+	return n1,n2, n3, n4, n5, n6
